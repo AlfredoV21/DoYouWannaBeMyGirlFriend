@@ -2,4 +2,4 @@
 
 its  just a loop. Funny practice with conditionals.
 
-click here to [see](douwannabemygirlfriend.netlify.app "see") the website.
+click [here](https://douwannabemygirlfriend.netlify.app/ "here") to see the website.
